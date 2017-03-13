@@ -19,8 +19,8 @@ API
 
 ```
 /**
- * @param key {String|Buffer}
- * @param msg {String|Buffer}
+ * @param {(String|Buffer)} key
+ * @param {(String|Buffer)} msg
  * @returns Buffer
  */
 aesCmacPrf128(key, msg);
