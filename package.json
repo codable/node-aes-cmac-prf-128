@@ -1,0 +1,22 @@
+{
+  "name": "aes-cmac-prf-128",
+  "version": "0.0.1",
+  "description": "RFC4615 AES-CMAC-PRF-128",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codable/node-aes-cmac-prf-128.git"
+  },
+  "keywords": [
+    "RFC4615",
+    "AES-CMAC-PRF-128"
+  ],
+  "author": "Code Able <codable@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-aes-cmac": "^0.1.1"
+  }
+}
