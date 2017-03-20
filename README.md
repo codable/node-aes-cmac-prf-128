@@ -1,7 +1,7 @@
 AES-CMAC-PRF-128
 ================
 
-Simple wrapper for aes-cmac to implement RFC4615's AES-CMAC-PRF-128 algorythm.
+Simple wrapper for aes-cmac to implement RFC4615's AES-CMAC-PRF-128 algorithm.
 
 Example
 -------
